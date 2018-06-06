@@ -1,0 +1,5 @@
+* Spice netlister for gnetlist
+V1 1 0 13.9V
+R2 2 0 10ohm
+R1 1 2 4ohm
+.END
